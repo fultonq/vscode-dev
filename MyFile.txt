@@ -1,1 +1,1 @@
-My first file in this github tutorial.
+My first file in this github tutorial. We need a complete mastery of Git and Github in order to manage code versioning.
